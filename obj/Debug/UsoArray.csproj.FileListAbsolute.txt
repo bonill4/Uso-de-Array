@@ -1,0 +1,8 @@
+C:\Users\willi\source\repos\UsoArray\bin\Debug\UsoArray.exe.config
+C:\Users\willi\source\repos\UsoArray\bin\Debug\UsoArray.exe
+C:\Users\willi\source\repos\UsoArray\bin\Debug\UsoArray.pdb
+C:\Users\willi\source\repos\UsoArray\obj\Debug\UsoArray.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\UsoArray\obj\Debug\UsoArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\willi\source\repos\UsoArray\obj\Debug\UsoArray.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\UsoArray\obj\Debug\UsoArray.exe
+C:\Users\willi\source\repos\UsoArray\obj\Debug\UsoArray.pdb
